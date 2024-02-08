@@ -31,4 +31,4 @@ Used ViewInspector Third-party library for the UI Testing.
 
 ## Screenshots
 
-<img src= "https://github.com/sabapathyk7/NewsAPIArticles/assets/40764138/2485b8eb-d5b6-4781-a628-5977004912b1" height = 550> 
+<img src= "https://github.com/sabapathyk7/NewsAPI/assets/40764138/90dc322e-8336-4e85-b17e-86957f1e9e01" height = 550> 
